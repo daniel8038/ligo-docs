@@ -3,9 +3,20 @@ description: >-
   Ligo Layer 2 is architected to function as a robust sidechain alongside the
   main Bitcoin blockchain, utilizing a decentralized consensus mechanism known
   as Random Pool Proof of Multi-properties (RPPOM
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Detailed Architecture
+# 🤖 Detailed Architecture
 
 1\. Problems of Bitcoin Network
 

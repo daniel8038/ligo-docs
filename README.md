@@ -8,7 +8,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 📋 Executive Summary
+# 💻 Executive Summary
 
 Since 2023, with the rise of Ordinals theory, the BTC ecosystem has regained user attention. A large number of users have begun to return to the BTC ecosystem, leading to a sharp increase in transaction volume on the BTC chain. Subsequently, based on the Ordinals theory, some innovative protocols along with relevant products have appeared on the Bitcoin network. These include BRC-20, Bitcoin NFT, BIP300, Brc-20 DEX etc. The innovation of these protocols has ultimately extended to the Bitcoin network, creating unlimited potential for the future development of the Bitcoin ecosystem.
 

@@ -5,5 +5,5 @@ description: >-
   techniques, regular security audits, and a
 ---
 
-# Security Features
+# 🔐 Security Features
 

@@ -5,7 +5,7 @@ description: >-
   Tourists. Each role has distinct responsibilities and r
 ---
 
-# Consensus Mechanism and Roles
+# ⚙️ Consensus Mechanism and Roles
 
 &#x20;LIGO BTC Layer2 Architecture
 

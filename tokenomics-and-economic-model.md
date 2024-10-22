@@ -5,7 +5,7 @@ description: >-
   incentivizes participants to maintain and secure the n
 ---
 
-# Tokenomics and Economic Model
+# 🛠️ Tokenomics and Economic Model
 
 L igo Layer2 Design Philosophy
 
