@@ -11,7 +11,7 @@ description: >-
 
 &#x20;
 
-2\. $iGO, Ligo Layer2 asset for utility (a utility token that pays for gas fees and enables fast and cheap transactions on the layer2 network. $iGO will be abundant, 10 trillion, inexpensive at start, and sufficiently circulated). The value of our tokens is backed by Bitcoin as an asset.
+2\. $AiGO, Ligo Layer2 asset for utility (a utility token that pays for gas fees and enables fast and cheap transactions on the layer2 network. $iGO will be abundant, 10 trillion, inexpensive at start, and sufficiently circulated). The value of our tokens is backed by Bitcoin as an asset.
 
 · The design of tokenomics and consensus are critical to Ligo L2 succeed, both correspondingly enhance assets’ liquidity, security. We leverage the coming $iGO, which has quantity advantage of 10 trillion with70 years mining window.
 
